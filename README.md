@@ -1,36 +1,29 @@
-# 🎵 Fast O Tuan - Lirik Command
+# Fast O Tuan - Lirik Command
 
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)](https://www.pygame.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> Program sederhana berbasis Python yang menampilkan lirik lagu dengan efek typewriter yang tersinkronisasi dengan timing musik.
+> Program sederhana berbasis Python yang menampilkan lirik lagu | Gabut njir
 
-## ✨ Fitur Utama
-
-- 🎶 **Pemutaran Audio Otomatis** - Memutar lagu secara otomatis menggunakan pygame
-- ⏱️ **Sinkronisasi Lirik** - Lirik muncul sesuai dengan timing musik
-- ⌨️ **Efek Typewriter** - Animasi pengetikan huruf per huruf yang menarik
-- 🎤 **Basis Karaoke CLI** - Dapat dikembangkan menjadi aplikasi karaoke sederhana
-
-## 📁 Struktur Project
+## Struktur Project
 
 ```
 Fast-O-Tuan-Lirik-Command/
 │
-├── 📄 app.py                      # Program utama
-├── 🎵 Feast - O Tuan (...).mp3    # File musik
-└── 📋 README.md                   # Dokumentasi
+├── app.py                      # Program utama
+├── Feast - O Tuan (...).mp3    # File musik
+└── README.md                   # Dokumentasi
 ```
 
-## 🖼️ Preview
+## Preview
 
 <div align="center">
   <img src="https://iili.io/KJVonP2.png" alt="Preview Screenshot" width="700"/>
   <p><em>Tampilan aplikasi saat berjalan</em></p>
 </div>
 
-## 🚀 Instalasi dan Penggunaan
+## Instalasi dan Penggunaan
 
 ### Persyaratan Sistem
 - Python 3.7 atau lebih baru
@@ -54,22 +47,22 @@ Fast-O-Tuan-Lirik-Command/
    python app.py
    ```
 
-## 🎯 Roadmap Pengembangan
+## Roadmap Pengembangan
 
-- [ ] 🖥️ Interface GUI yang lebih interaktif
-- [ ] 📊 Visualisasi musik real-time
-- [ ] 🎤 Mode karaoke dengan highlight kata per kata
-- [ ] 🎨 Kustomisasi tema dan warna
-- [ ] 📱 Support untuk format audio lainnya
-- [ ] 💾 Sistem playlist
+- [ ] Interface GUI yang lebih interaktif
+- [ ] Visualisasi musik real-time
+- [ ] Mode karaoke dengan highlight kata per kata
+- [ ] Kustomisasi tema dan warna
+- [ ] Support untuk format audio lainnya
+- [ ] Sistem playlist
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - **Python** - Bahasa pemrograman utama
 - **Pygame** - Library untuk audio playback dan game development
 - **Threading** - Untuk sinkronisasi audio dan text
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Kontribusi selalu diterima! Jika Anda ingin berkontribusi:
 
@@ -79,17 +72,13 @@ Kontribusi selalu diterima! Jika Anda ingin berkontribusi:
 4. Push ke branch (`git push origin feature/AmazingFeature`)
 5. Buat Pull Request
 
-## 📄 Lisensi
+## Lisensi
 
 Didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
 
-## 👨‍💻 Author
+## Author
 
 **Renn-devBI**
 - GitHub: [@Renn-devBI](https://github.com/Renn-devBI)
 
 ---
-
-<div align="center">
-  <p>⭐ Jangan lupa beri star jika project ini membantu Anda! ⭐</p>
-</div>
