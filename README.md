@@ -20,7 +20,7 @@ Fast-O-Tuan-Lirik-Command/
 
 <div align="center">
   <img src="https://iili.io/KJVonP2.png" alt="Preview Screenshot" width="700"/>
-  <p><em>Tampilan aplikasi saat berjalan</em></p>
+  <p><em>My Biniii</em></p>
 </div>
 
 ## Instalasi dan Penggunaan
@@ -61,16 +61,6 @@ Fast-O-Tuan-Lirik-Command/
 - **Python** - Bahasa pemrograman utama
 - **Pygame** - Library untuk audio playback dan game development
 - **Threading** - Untuk sinkronisasi audio dan text
-
-## Kontribusi
-
-Kontribusi selalu diterima! Jika Anda ingin berkontribusi:
-
-1. Fork repository ini
-2. Buat branch fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
 
 ## Lisensi
 
