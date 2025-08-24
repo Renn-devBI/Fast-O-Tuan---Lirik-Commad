@@ -23,7 +23,7 @@ Fast O Tuan - Lirik Commad/
 
 ---
 
-## Preview
+## My Bini
 
 <img src="https://iili.io/KJVonP2.png" alt="Preview Screenshot" width="600"/>
 
