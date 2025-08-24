@@ -1,0 +1,47 @@
+# Fast O Tuan - Lirik Command
+
+Program sederhana berbasis **Python** yang menampilkan lirik lagu dengan efek *typewriter* sesuai timing musik.  
+Menggunakan modul `pygame` untuk pemutaran audio.
+
+---
+
+## Fitur
+- Pemutaran lagu otomatis.
+- Sinkronisasi lirik dengan timing musik.
+- Efek pengetikan huruf per huruf seperti animasi.
+- Dapat dikembangkan untuk mendukung karaoke CLI sederhana.
+
+---
+
+## Struktur Project
+Fast O Tuan - Lirik Commad/
+│
+├── app.py # Program utama
+├── Feast - O Tuan (...).mp3 # File musik
+└── README.md # Dokumentasi
+
+
+---
+
+## Preview
+
+<img src="https://iili.io/KJVonP2.png" alt="Preview Screenshot" width="600"/>
+
+---
+
+## Cara Menjalankan
+1. Pastikan Python 3 sudah terinstall.
+2. Install dependency:
+   ```bash
+   pip install pygame
+3. Jalankan program: python app.py
+
+Pengembangan Selanjutnya
+Dukungan tampilan GUI.
+Animasi visualisasi musik.
+Karaoke style dengan highlight kata per kata.
+
+---
+
+Kamu tinggal bikin file **README.md** di folder project kamu, lalu paste isi di atas.  
+Mau saya sekalian bikinkan perintah **git** biar README ini langsung ikut ke push ke repo GitHub kamu?
