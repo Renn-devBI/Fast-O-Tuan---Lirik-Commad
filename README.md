@@ -29,12 +29,18 @@ Fast O Tuan - Lirik Commad/
 
 ---
 
-## Cara Menjalankan
-1. Pastikan Python 3 sudah terinstall.
-2. Install dependency:
+## Cara Instalasi dan Menjalankan
+
+### 1. Clone dari GitHub
+```bash
+git clone https://github.com/Renn-devBI/Fast-O-Tuan---Lirik-Commad.git
+cd Fast-O-Tuan---Lirik-Commad
+
+2. Pastikan Python 3 sudah terinstall.
+3. Install dependency:
    ```bash
    pip install pygame
-3. Jalankan program: python app.py
+4. Jalankan program: python app.py
 
 Pengembangan Selanjutnya
 Dukungan tampilan GUI.
